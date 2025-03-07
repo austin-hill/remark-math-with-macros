@@ -9,7 +9,8 @@
 [![Chat][chat-badge]][chat]
 
 This project is a monorepo that contains several packages for dealing with
-math in markdown and HTML.
+math in markdown and HTML. This fork allows the use of all katex configurations options, 
+including the use of macros. For installation instructions, see the readme in each package.
 
 ## Contents
 

@@ -68,21 +68,7 @@ This package is [ESM only][esm].
 In Node.js (version 16+), install with [npm][]:
 
 ```sh
-npm install remark-math
-```
-
-In Deno with [`esm.sh`][esmsh]:
-
-```js
-import remarkMath from 'https://esm.sh/remark-math@6'
-```
-
-In browsers with [`esm.sh`][esmsh]:
-
-```html
-<script type="module">
-  import remarkMath from 'https://esm.sh/remark-math@6?bundle'
-</script>
+npm install https://gitpkg.now.sh/austin-hill/remark-math-with-macros/packages/remark-math/?main
 ```
 
 ## Use

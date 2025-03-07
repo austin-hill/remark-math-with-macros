@@ -50,21 +50,7 @@ This package is [ESM only][esm].
 In Node.js (version 18+), install with [npm][]:
 
 ```sh
-npm install rehype-mathjax
-```
-
-In Deno with [`esm.sh`][esmsh]:
-
-```js
-import rehypeMathjax from 'https://esm.sh/rehype-mathjax@7'
-```
-
-In browsers with [`esm.sh`][esmsh]:
-
-```html
-<script type="module">
-  import rehypeMathjax from 'https://esm.sh/rehype-mathjax@7?bundle'
-</script>
+npm install https://gitpkg.now.sh/austin-hill/remark-math-with-macros/packages/rehype-mathjax/?main
 ```
 
 ## Use
