@@ -5,7 +5,7 @@
  */
 
 /**
- * @typedef {Omit<KatexOptions, 'displayMode' | 'throwOnError'>} Options
+ * @typedef {KatexOptions} Options
  */
 
 import {fromHtmlIsomorphic} from 'hast-util-from-html-isomorphic'
